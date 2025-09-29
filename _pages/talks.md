@@ -9,7 +9,7 @@ author_profile: true
 
 **4. A categorification of combinatorial Auslander–Reiten quivers**.  
   [The Legacy of Peter Gabriel](https://www.math.uni-bielefeld.de/birep/meetings/gabriel2025/), Bielefeld University, 2025/08.  
-  [Notes](/images/notes/2025_08_Gabriel.pdf)
+  [Notes](/images/notes/2025_08_Gabriel.pdf).
 
 **3. A categorification of combinatorial Auslander–Reiten quivers**.  
   Demi-journée de l'équipe [Groupes, Représentations et Géométrie](https://www.imj-prg.fr/grg/), Université Paris Cité, 2025/05.  
