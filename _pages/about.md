@@ -1,13 +1,11 @@
 ---
 permalink: /
-title:
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Bio
 
 I am currently a PhD student in Mathematics at Université Paris Cité, under the supervision of [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html).
 
