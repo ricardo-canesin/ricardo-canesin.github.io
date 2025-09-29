@@ -2,7 +2,7 @@
 layout: single
 title: "Other writings"
 permalink: /writings/
-author_profile: true
+author_profile: false
 ---
 
 ## Theses

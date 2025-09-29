@@ -2,7 +2,7 @@
 layout: single
 title: "Talks and presentations"
 permalink: /talks/
-author_profile: true
+author_profile: false
 ---
 
 ## Talks
