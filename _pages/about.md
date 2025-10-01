@@ -14,9 +14,9 @@ My CV is available <a href="/images/CV.pdf" target="_blank" rel="noopener norefe
 ## Research interests
 
 - Representation theory of finite-dimensional algebras;
-- Representation theory of quantum affine algebras;
+- Cluster algebras and their categorifications;
 - Differential graded categories and their derived categories;
-- Cluster algebras and their categorifications.
+- Quantum affine algebras and their representations.
 
 ## Contact information
 
