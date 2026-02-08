@@ -11,6 +11,8 @@ I am currently a PhD student in Mathematics at Université Paris Cité, under th
 
 My CV is available <a href="/images/CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
+My full name is Ricardo Felipe Rosada Canesin.
+
 ## Research interests
 
 - Representation theory of finite-dimensional algebras;

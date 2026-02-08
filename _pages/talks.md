@@ -7,6 +7,10 @@ author_profile: true
 
 ## Talks
 
+**5. Graded quiver varieties and categories of split filtrations**.  
+  <a href="https://sites.google.com/view/oberseminar-algebra-koeln/home" target="_blank" rel="noopener noreferrer">Köln Algebra and Representation Theory Seminar, 2026/01.  
+  <a href="/images/notes/2026_01_Cologne.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
+
 **4. A categorification of combinatorial Auslander–Reiten quivers**.  
   <a href="https://www.math.uni-bielefeld.de/birep/meetings/gabriel2025/" target="_blank" rel="noopener noreferrer">The Legacy of Peter Gabriel</a>, Bielefeld University, 2025/08.  
   <a href="/images/notes/2025_08_Gabriel.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
@@ -24,6 +28,10 @@ author_profile: true
   <a href="/images/notes/2024_07_Nanjing.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
 
 ## Posters
+
+**3. A categorification of combinatorial Auslander–Reiten quivers**.  
+  <a href="https://icms.ac.uk/activities/workshop/new-perspectives-in-quantum-representation-theory/" target="_blank" rel="noopener noreferrer">New perspectives in quantum representation theory</a>, ICMS, 2025/11.  
+  <a href="/images/posters/2025_11_ICMS.pdf" target="_blank" rel="noopener noreferrer">PDF</a>.
 
 **2. A categorification of combinatorial Auslander–Reiten quivers**.  
   <a href="https://sites.google.com/view/arta-x-cologne" target="_blank" rel="noopener noreferrer">Advances in Representation Theory of Algebras (ARTA X)</a>, University of Cologne, 2025/09.  
