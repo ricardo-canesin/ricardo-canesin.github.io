@@ -8,7 +8,7 @@ author_profile: true
 ## Talks
 
 **5. Graded quiver varieties and categories of split filtrations**.  
-  <a href="https://sites.google.com/view/oberseminar-algebra-koeln/home" target="_blank" rel="noopener noreferrer">Köln Algebra and Representation Theory Seminar, 2026/01.  
+  <a href="https://sites.google.com/view/oberseminar-algebra-koeln/home" target="_blank" rel="noopener noreferrer">Köln Algebra and Representation Theory Seminar</a>, University of Cologne, 2026/01.  
   <a href="/images/notes/2026_01_Cologne.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
 
 **4. A categorification of combinatorial Auslander–Reiten quivers**.  
