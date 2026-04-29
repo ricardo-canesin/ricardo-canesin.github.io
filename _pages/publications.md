@@ -13,6 +13,8 @@ author_profile: true
 **1. A categorification of combinatorial Auslander–Reiten quivers**.  
   <a href="https://arxiv.org/abs/2505.06147" target="_blank" rel="noopener noreferrer">arXiv:2505.06147</a>. (Submitted.)
 
+## In preparation
 
+**Additive categorification of the $\Lambda$-invariant**. Joint with <a href="https://geoffreyjanssens.github.io/" target="_blank" rel="noopener noreferrer">Geoffrey Janssens</a>.  
 
 
