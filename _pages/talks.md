@@ -7,6 +7,10 @@ author_profile: true
 
 ## Talks
 
+**6. An additive interpretation of the monoidal Λ-invariant**.  
+  <a href="https://researchseminars.org/seminar/paris-algebra-seminar" target="_blank" rel="noopener noreferrer">Paris Algebra Seminar</a>, Université Paris Cité, 2026/03.  
+  <a href="/images/notes/2026_03_Paris.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
+
 **5. Graded quiver varieties and categories of split filtrations**.  
   <a href="https://sites.google.com/view/oberseminar-algebra-koeln/home" target="_blank" rel="noopener noreferrer">Köln Algebra and Representation Theory Seminar</a>, University of Cologne, 2026/01.  
   <a href="/images/notes/2026_01_Cologne.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
