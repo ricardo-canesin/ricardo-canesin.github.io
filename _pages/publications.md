@@ -15,6 +15,6 @@ author_profile: true
 
 ## In preparation
 
-**Additive categorification of the $\Lambda$-invariant**. Joint with <a href="https://geoffreyjanssens.github.io/" target="_blank" rel="noopener noreferrer">Geoffrey Janssens</a>.  
+**Additive categorification of the \(\Lambda\)-invariant**. Joint with <a href="https://geoffreyjanssens.github.io/" target="_blank" rel="noopener noreferrer">Geoffrey Janssens</a>.  
 
 
