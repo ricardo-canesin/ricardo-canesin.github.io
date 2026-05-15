@@ -7,6 +7,10 @@ author_profile: true
 
 ## Talks
 
+**7. Additive categorification of the monoidal Λ-invariant**.  
+  <a href="https://sites.google.com/view/reptheory-seminar-bonn/home" target="_blank" rel="noopener noreferrer">Algebra and Representation theory seminar</a>, University of Bonn, 2026/05.  
+  <a href="/images/notes/2026_05_Bonn.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
+
 **6. An additive interpretation of the monoidal Λ-invariant**.  
   <a href="https://researchseminars.org/seminar/paris-algebra-seminar" target="_blank" rel="noopener noreferrer">Paris Algebra Seminar</a>, Université Paris Cité, 2026/03.  
   <a href="/images/notes/2026_03_Paris.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
