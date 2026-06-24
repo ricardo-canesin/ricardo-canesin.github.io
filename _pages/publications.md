@@ -15,7 +15,7 @@ author_profile: true
   <a href="https://arxiv.org/abs/2601.09509" target="_blank" rel="noopener noreferrer">arXiv:2601.09509</a>. (Submitted.)
 
 **1. A categorification of combinatorial Auslander–Reiten quivers**.  
-  J. London Math. Soc. (2) **113** (2026), no. 5, Paper No. e70579. <a href="https://doi.org/10.1112/jlms.70579" target="_blank" rel="noopener noreferrer">DOI</a>, <a href="https://arxiv.org/abs/2505.06147" target="_blank" rel="noopener noreferrer">arXiv</a>.
-
+  J. London Math. Soc. (2) **113** (2026), no. 5, Paper No. e70579. <a href="https://doi.org/10.1112/jlms.70579" target="_blank" rel="noopener noreferrer">DOI</a>, <a href="https://arxiv.org/abs/2505.06147" target="_blank" rel="noopener noreferrer">arXiv</a>.  
+Unfortunately, Remark 6.9 is not correct in the published version. See the last version on arXiv.
 
 
