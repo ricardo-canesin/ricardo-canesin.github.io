@@ -7,6 +7,10 @@ author_profile: true
 
 ## Talks
 
+**8. Additive categorification of the monoidal Λ-invariant**.  
+  <a href="https://if-summer-2026.sciencesconf.org/" target="_blank" rel="noopener noreferrer">International Conference on Representations of Algebras (ICRA 22)</a>, Université Grenoble Alpes, 2026/07.  
+  <a href="/images/notes/2026_07_ICRA.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
+
 **7. Additive categorification of the monoidal Λ-invariant**.  
   <a href="https://sites.google.com/view/reptheory-seminar-bonn/home" target="_blank" rel="noopener noreferrer">Algebra and Representation theory seminar</a>, University of Bonn, 2026/05.  
   <a href="/images/notes/2026_05_Bonn.pdf" target="_blank" rel="noopener noreferrer">Notes</a>.
