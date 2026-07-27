@@ -7,6 +7,10 @@ author_profile: true
 
 ## Theses
 
+- <a href="/images/theses/PhD.pdf" target="_blank" rel="noopener noreferrer"><strong>From derived categories to representations of quantum affine algebras</strong></a>.  
+    In my PhD thesis, I explore three distinct projects motivated by questions in the representation theory of quantum affine algebras, using methods from the representation theory of quivers, finite-dimensional algebras (and their dg analogues), and their derived categories. It was written under the supervision of <a href="https://webusers.imj-prg.fr/~baptiste.rognerud/" target="_blank" rel="noopener noreferrer">Bernhard Keller</a> and is based on my first three articles.
+
+
 - <a href="/images/theses/Master.pdf" target="_blank" rel="noopener noreferrer"><strong>On the bounded derived category of a Dynkin quiver</strong></a>.  
     In my Master's thesis, written under the supervision of <a href="https://webusers.imj-prg.fr/~baptiste.rognerud/" target="_blank" rel="noopener noreferrer">Baptiste Rognerud</a>, I studied some techniques from the representation theory of finite-dimensional associative algebras. It covers Gabriel's theorem on representation-finite hereditary algebras and an introduction to Auslander–Reiten theory. The final chapter proves that the bounded derived category of a Dynkin quiver is fractionally Calabi–Yau, following an argument given in the appendix of the preprint <a href="https://arxiv.org/abs/2012.11927" target="_blank" rel="noopener noreferrer">arXiv:2012.11927</a>.
 
